@@ -1,5 +1,16 @@
-**Theme_CPP para ggplot2**
+# Theme_CPP para ggplot2
 
-Autor:
+Um tema para gráficos produzidos pelo ggplot2 no R.
+
+Autores:
       Denisson SilVa,
       Willber Nascimento
+      
+# Como usar
+
+```
+ggplot()+
+theme_cpp()
+```
+
+
